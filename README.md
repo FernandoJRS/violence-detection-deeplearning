@@ -21,7 +21,7 @@ This project is implemented in Python using the [Tensorflow](https://www.tensorf
 - Keras v2.4.3
 - Scikit-Image v0.17.2
 - Scikit-Learn v0.24.2
-- Tensorflow v2.5.0
+- Tensorflow v2.5.1
 - Livelossplot v0.5.3
 - Matplotlib v3.3.2
 - Numpy v1.19.2

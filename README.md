@@ -102,31 +102,7 @@ This section shows the results obtained from the different experiments carried o
 
 ## Evaluation
 
-We provide a [Jupyter Notebook](ViolenceActionDetection.ipynb) with instructions to train and test our model.
 
-In order to run the application it is necessary to download the datasets. And to download the datasets it is necessary to upload the kaggle.json file found in this repository.
-
-The following steps must be followed:
-
-1. First step
-
-    Download the kaggle.json file to a local environment
-
-2. Second step
-
-    Open the [Jupyter Notebook](ViolenceActionDetection.ipynb)
-
-3. Third step
-
-    Execute the first cell of the jupyter notebook.
-
-4. Step four
-
-    After executing the first cell, it will ask you to load the kaggle.json file. Do it.
-
-5. Fifth step
-
-    After the datasets is downloaded, run the other parts of the code.
 
 ## Citation
 

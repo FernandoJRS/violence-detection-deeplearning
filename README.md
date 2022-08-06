@@ -107,6 +107,10 @@ This section shows the results obtained from the different experiments carried o
 
 In the following [link](https://drive.google.com/drive/folders/1IN6KE9WOH2ix0kH_bVug0QuO1i8la0TE?usp=sharing) you can find the pre-trained models with the Movies Fights, Hockey Fights and Violent Flows datasets.
 
+### Datasets
+
+In the following [link](https://www.kaggle.com/frendon/datasets) you can find all the datasets that have been used in this project.
+
 ## Citation
 
 This section gives the information to cite the paper: ViolenceNet: Dense Multi-Head Self-Attention with Bidirectional Convolutional LSTM for Detecting Violence (2021), doi: https://doi.org/10.3390/electronics10131601.

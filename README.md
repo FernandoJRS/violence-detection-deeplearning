@@ -114,19 +114,19 @@ In the following [link](https://drive.google.com/drive/folders/1IN6KE9WOH2ix0kH_
 
 In the following [link](https://www.kaggle.com/frendon/datasets) you can find all the datasets that have been used in this project.
 
-### Loss, Accuracy Hockey Fights Graphics
+### Loss And Accuracy Graphics, Hockey Fights 
 
 ![Loss_HF](figures/Loss_HF.png?raw=True "Loss_HF")
 
 ![Accuracy_HF](figures/Accuracy_HF.png?raw=True "Accuracy_HF")
 
-### Loss, Accuracy Movies Fights Graphics
+### Loss And Accuracy Graphics, Movies Fights 
 
 ![Loss_MF](figures/Loss_MF.png?raw=True "Loss_MF")
 
 ![Accuracy_MF](figures/Accuracy_MF.png?raw=True "Accuracy_MF")
 
-### Loss, Accuracy Violent Flows Graphics
+### Loss And Accuracy Graphics, Violent Flows 
 
 ![Loss_VF](figures/Loss_VF.png?raw=True "Loss_VF")
 

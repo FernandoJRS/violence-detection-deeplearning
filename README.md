@@ -114,6 +114,12 @@ In the following [link](https://drive.google.com/drive/folders/1IN6KE9WOH2ix0kH_
 
 In the following [link](https://www.kaggle.com/frendon/datasets) you can find all the datasets that have been used in this project.
 
+### Loss, Accuracy Hockey Fights Graphics
+
+### Loss, Accuracy Movies Fights Graphics
+
+### Loss, Accuracy Violent Flows Graphics
+
 ## Citation
 
 This section gives the information to cite the paper: ViolenceNet: Dense Multi-Head Self-Attention with Bidirectional Convolutional LSTM for Detecting Violence (2021), doi: https://doi.org/10.3390/electronics10131601.

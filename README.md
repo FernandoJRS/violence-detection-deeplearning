@@ -105,7 +105,7 @@ This section shows the results obtained from the different experiments carried o
 
 ### Pre-trained models
 
-https://drive.google.com/drive/folders/1IN6KE9WOH2ix0kH_bVug0QuO1i8la0TE?usp=sharing
+En el siguiente [enlace](https://drive.google.com/drive/folders/1IN6KE9WOH2ix0kH_bVug0QuO1i8la0TE?usp=sharing) se encuentran los modelos pre-entrenados con los conjuntos de datos Movies Fights, Hockey Fights y Violent Flows.
 
 ## Citation
 

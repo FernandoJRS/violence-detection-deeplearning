@@ -102,6 +102,7 @@ This section shows the results obtained from the different experiments carried o
 
 ## Evaluation
 
+For each dataset the model has been trained on, we provide three Jupyter notebooks in this repository. Each of these notebooks has a different role with the datasets. The first of the notebooks allows you to execute the training of the model and perform an evaluation of it. The second of the notebooks allows to run the pre-trained model with a percentage of testing the data set. Finally, the third notebook allows you to run the pre-trained model with the entire data set as a test, in addition to being able to cross-validate by changing the dataset for another with which the model has not been trained.
 
 ### Pre-trained models
 

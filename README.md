@@ -104,6 +104,8 @@ This section shows the results obtained from the different experiments carried o
 
 For each dataset the model has been trained on, we provide three Jupyter notebooks in this repository. Each of these notebooks has a different role with the datasets. The first of the notebooks allows you to execute the training of the model and perform an evaluation of it. The second of the notebooks allows to run the pre-trained model with a percentage of testing the data set. Finally, the third notebook allows you to run the pre-trained model with the entire data set as a test, in addition to being able to cross-validate by changing the dataset for another with which the model has not been trained.
 
+To run all the notebooks it is necessary to previously download the corresponding datasets. For the first notebook of each of the data sets, it is also necessary to download the kaggle.json file and load it by executing the first cell of the notebook. For the second and third notebooks of each of the datasets, it is also necessary to download the pre-trained models for each of the corresponding datasets.
+
 ### Pre-trained models
 
 In the following [link](https://drive.google.com/drive/folders/1IN6KE9WOH2ix0kH_bVug0QuO1i8la0TE?usp=sharing) you can find the pre-trained models with the Movies Fights, Hockey Fights and Violent Flows datasets.

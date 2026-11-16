@@ -1,6 +1,6 @@
 opencv-python==4.4.0.46
 ipython==7.16.1
-keras==2.4.3
+keras==3.15.0
 scikit-image==0.17.2
 scikit-learn==0.24.2
 tensorflow==2.5.1
